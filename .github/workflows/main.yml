@@ -16,4 +16,4 @@ jobs:
           server: mrdyman.com
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          server-dir: /public_html/tes-action.mrdyman.com
+          server-dir: /public_html
